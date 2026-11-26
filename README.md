@@ -6,6 +6,8 @@
 
 Machina N° 010 della serie **OFFICINA DEGLI ENIGMI**. Gioco didattico in un unico file HTML, ispirato alla Macchina Differenziale di Charles Babbage: una macchina che calcola e stampa tavole di polinomi usando soltanto addizioni.
 
+[Puoi usarlo qui](https://tagtthespellcaster.github.io/Machina-Differentialis/)
+
 ## Contenuto
 
 - **Esercizi**: 14 esercizi numerati più il «Calcolo libero». Dodici (1–11 e 14) chiedono di scrivere i numeri iniziali nei registri perché la macchina stampi una tavola data (il testo precisa che le righe del nastro sono i risultati per x = 0, 1, …, e che x è il numero a sinistra di ogni riga); il 12 e il 13 («Errata corrige») chiedono di trovare e correggere un errore in una tavola stampata guardando le differenze. Il «Calcolo libero» non ha scopo (da 2 a 6 registri, menu di esempi).
